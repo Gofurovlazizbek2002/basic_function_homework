@@ -3,7 +3,4 @@
 
 
 def salom_ber():
-    salom="Hello World"
-    return salom
-
-# Return the value "Hello World"
+    return "Hello World"
