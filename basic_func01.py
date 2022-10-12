@@ -1,6 +1,4 @@
 # Create a function called main.
-def x():
-
+def main():
  return 0
-print(x())
 # Return the value 0
